@@ -20,3 +20,10 @@ body {
 header {
     background-image: url(../mainpagebackground.jpg);
 }
+
+#profile-img {
+    width: 95px; /* Adjust as needed */
+    position: fixed;
+    top: 75px; /* Adjust for desired distance from the top */
+    left: 15px; /* Adjust for desired distance from the left */
+}
