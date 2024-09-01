@@ -22,8 +22,15 @@ header {
 }
 
 #profile-img {
-    width: 95px; /* Adjust as needed */
-    position: fixed;
-    top: 75px; /* Adjust for desired distance from the top */
-    left: 15px; /* Adjust for desired distance from the left */
+    width: 350px; /* Adjust as needed */
+    height: 350px;
+    margin-top: 15px;
+}
+#about-me{
+    color: azure;
+    margin:auto;
+    vertical-align: central;
+}
+#about-me-paragraph{
+    font-size:22px;
 }
